@@ -1,0 +1,5 @@
+第三方库
+pip install flask zeroconf pyinstaller
+打包
+pyinstaller --onefile server_app.py
+pyinstaller --onefile node_app.py
